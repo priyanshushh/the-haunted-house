@@ -1,16 +1,8 @@
-# Three.js Journey
+## The Haunted House
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+I have been trying to learn 3js for past few days this little project is like a first step towards many big things i would be making with 3js in future. Hopefully very soon.
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+ [You can check it out here ](https://the-haunted-house-git-main-priyanshusharmaaug03.vercel.app/)
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+![image](https://github.com/priyanshushh/the-haunted-house/assets/71705875/b54c1408-da9b-4f3f-a824-bd60ba7ee391)
