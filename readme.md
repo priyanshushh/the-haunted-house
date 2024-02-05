@@ -1,6 +1,8 @@
 ## The Haunted House
 
-I have been trying to learn 3js for past few days this little project is like a first step towards many big things i would be making with 3js in future. Hopefully very soon.
+Over the past few days, I've been immersing myself in the world of 3JS, and this little project marks my initial stride towards the exciting possibilities that lie ahead. It serves as a foundational step for the numerous ambitious projects I plan to create using 3JS in the near future. If you are checking this project out and i have pushed the new projcts feel free to check them out else please stay tuened to see what I have to offer you(and you can check my older projects as well they may not have 3JS but they were quite fun to make).
+
+
 
  [You can check it out here ](https://the-haunted-house-git-main-priyanshusharmaaug03.vercel.app/)
 
